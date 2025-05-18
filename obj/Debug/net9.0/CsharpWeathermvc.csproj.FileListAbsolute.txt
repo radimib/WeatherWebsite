@@ -1,0 +1,7 @@
+/Users/radimib/CsharpWeathermvc/obj/Debug/net9.0/CsharpWeathermvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radimib/CsharpWeathermvc/obj/Debug/net9.0/CsharpWeathermvc.AssemblyInfoInputs.cache
+/Users/radimib/CsharpWeathermvc/obj/Debug/net9.0/CsharpWeathermvc.AssemblyInfo.cs
+/Users/radimib/CsharpWeathermvc/obj/Debug/net9.0/CsharpWeathermvc.csproj.CoreCompileInputs.cache
+/Users/radimib/CsharpWeathermvc/obj/Debug/net9.0/CsharpWeathermvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/radimib/CsharpWeathermvc/obj/Debug/net9.0/CsharpWeathermvc.RazorAssemblyInfo.cache
+/Users/radimib/CsharpWeathermvc/obj/Debug/net9.0/CsharpWeathermvc.RazorAssemblyInfo.cs
